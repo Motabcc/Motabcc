@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn machine learning
 - 🌱 I’m currently learning python
 - 📫 How to reach insta:gabriel_mota
-- 📖 I readed Crash Course Python,Backpack pytohn,Dead Simple Python!
+- 📖 I read Crash Course Python,Backpack pytohn,Dead Simple Python!
 - I make API of Dexter show's using Django/Insomnia and Game of Aliens using Pygame!
 
 <!---
