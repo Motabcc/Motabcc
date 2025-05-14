@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Motabcc
 - 👀 I’m interested in learn machine learning
 - 🌱 I’m currently learning python
-- 📫 How to reach 41 9 9578 6964
+- 📫 How to reach insta:gabriel_mota
+- 📖 I readed Crash Course Python,Backpack pytohn,Dead Simple Python!
+- I make API of Dexter show's using Django/Insomnia and Game of Aliens using Pygame!
 
 <!---
 Motabcc/Motabcc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
