@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @Motabcc
-- 👀 I’m interested in learn machine learning and Data Structure
-- 🌱 I’m currently learning python
-- 📫 E-mail: gmota.oficial@gmail.com
-- 📖 I read Crash Course Python,Backpack python,Dead Simple Python and Data Structure in Python!
-- 👜 I make API of Dexter show's using Django/Insomnia and Game of Aliens using Pygame!
+# 👋 Hi, I’m @Motabcc (Gabriel Mota)
 
-<!---
-Motabcc/Motabcc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I'm interested in learning **Machine Learning** and **Data Structures**
+- 🌱 Currently studying **Python**
+- 📫 Contact: gmota.oficial@gmail.com
+- 📖 Books I've read:
+  - *Crash Course Python*
+  - *Backpack Python*
+  - *Dead Simple Python*
+  - *Data Structures in Python*
+- 🛠️ Projects:
+  - Built an **API based on the Dexter TV show** using *FastAPI* and *Insomnia*
+  - Developed an **Alien Invasion game** using *Pygame*
+
+---
+
+Thanks for visiting my profile! Feel free to check out my projects or connect with me on [LinkedIn](https://www.linkedin.com/in/gabriel-mota1511). 🚀
