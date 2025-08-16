@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Motabcc (Gabriel Mota)
 
 - 👀 I'm interested in learning **Machine Learning** and **Data Structures**
-- 🌱 Currently studying **Python**
+- 🌱 Currently studying **C**
 - 📫 Contact: gmota.oficial@gmail.com
 - 📖 Books I've read:
   - *Crash Course Python*
