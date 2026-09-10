@@ -22,11 +22,8 @@ Sou desenvolvedor e estudante de Ciência da Computação, com foco em desenvolv
 
 ### 📈 Minhas Estatísticas
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Motabcc&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff" height="165" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Motabcc&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&title_color=58a6ff" height="165" alt="Linguagens mais usadas"/>
-</div>
-
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Motabcc&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d)](https://github.com/Motabcc)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Motabcc&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d)](https://github.com/Motabcc)
 <br>
 
 ### 📫 Como me encontrar
