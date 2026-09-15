@@ -5,7 +5,6 @@ Sou desenvolvedor e estudante de Ciência da Computação, com foco em desenvolv
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
- 
   <img src="https://skillicons.dev/icons?i=java,python,c,django,postgres,supabase,linux,git" alt="Minhas Habilidades" />
 </div>
 
@@ -22,8 +21,11 @@ Sou desenvolvedor e estudante de Ciência da Computação, com foco em desenvolv
 
 ### 📈 Minhas Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Motabcc&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&cache_seconds=86400)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Motabcc&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&cache_seconds=86400)
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Motabcc&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&cache_seconds=86400" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Motabcc&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&cache_seconds=86400" alt="Linguagens mais usadas" />
+</div>
+
 <br>
 
 ### 📫 Como me encontrar
